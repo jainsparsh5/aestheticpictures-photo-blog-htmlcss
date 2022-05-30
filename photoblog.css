@@ -1,0 +1,16 @@
+img{
+    width: 23%;
+    margin: calc(29%/6);
+}
+
+nav{
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 23%;
+    margin-left: calc(29%/6);
+    padding: 20px 0;
+    font-family: 'Blaka', cursive;
+    font-size: 40px;
+}
+
+
